@@ -1,0 +1,52 @@
+body{
+	background-color: green;
+
+}
+.header {
+
+	height: auto;
+	width: 960px;
+	margin: 10px auto;
+	
+}
+
+.menu{
+	height:150px;
+	width: 960px;
+	border: 1px solid #000;
+	border-radius: 5px 5px 0 0;
+}
+
+
+.content{
+	height:25px;
+	width: 960px;
+	border: 1px solid #000;
+	margin: 5px 0 5px 0;
+	
+}
+
+.bagi{
+
+	height: 250px;
+	width: 100%;
+	
+	
+}
+
+.kiri{
+	padding: 20px;	
+	height:100%; 
+	width:35%;
+	
+	border: 1px solid #000;
+	float: left;
+}
+
+.kanan{
+	height: 100%;
+	width: 64%;
+	border: 1px solid #000;
+	float:right;
+}
+
